@@ -9,7 +9,8 @@ making it a fun and educational resource for students learning C#.
 Objective
 The goal of the game is to avoid clicking on the hidden bomb while selecting safe boxes within a time limit. 
 The game includes features like dynamic grid sizes, a real-time timer, and a leaderboard to track the best players.
-
+Video tutorial on detailed datbase integration with splashkit program
+https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=9fafdea1-3df0-4e22-933f-b27500490830
 Setup Instructions
 01. Install SplashKit
 1. Visit the [SplashKit website](https://splashkit.io/).
